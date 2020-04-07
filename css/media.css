@@ -29,6 +29,10 @@
     .main-nav:hover{
         width: 150px;
     }
+    
+    .main-nav .nav-list .navitem {
+    font-size: 18px;
+    }
     .author{
         left: 10px;
     }
@@ -88,13 +92,13 @@
 
     /* --  Pop Up   -- */
     .popup {
-        margin: 4% auto;
+        margin: 5% auto;
         padding: 10px;
         border-radius: 12px;
         width: 85%;
     }
     .popup .popup-close {
-        top: 10px;
+        top: 15px;
         font-size: 20px;
     }
 
@@ -392,7 +396,6 @@
     }
     .hint-true{
         float: right;
-        /* width: 25%; */
     }
     .hint-icon{
         width: 60%;
@@ -430,6 +433,10 @@
     }
     .sub-title{
         font-size: 20px;
+    }
+    
+    .main-nav .nav-list .navitem {
+    font-size: 20px;
     }
 
     /* main */
@@ -479,7 +486,7 @@
         width: 85%;
     }
     .popup .popup-close {
-        top: 10px;
+        top: 15px;
         font-size: 20px;
     }
 
