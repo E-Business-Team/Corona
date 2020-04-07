@@ -14,6 +14,10 @@ A new webSite produced by students of KhanYunis Training College located in Gaza
 > The most important ways to prevent the virus.
 Caring for patients infected with the.
 
+
+ ## [Visit Site](https://e-business-team.github.io/Corona/) :boom:
+
+
 ## Used Skills: :exclamation:
 
 - html
