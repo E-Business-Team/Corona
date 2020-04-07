@@ -1,6 +1,6 @@
 # Corona
 
-## Introduction
+## Introduction :grey_question:
 A new webSite produced by students of KhanYunis Training College located in Gaza / Palestine, which discusses the largest problem in the world, which is the **Corona virus (Covid-19-)** , where it discusses several topics related to the virus, which are:
 
 > What is Corona virus and how to attack the human body.
@@ -14,17 +14,21 @@ A new webSite produced by students of KhanYunis Training College located in Gaza
 > The most important ways to prevent the virus.
 Caring for patients infected with the.
 
-## Used Skills:
+## Used Skills: :exclamation:
 
 - html
 - css
 - jQuery
  
 
- ## Team Members
+ ## Team Members :clap:
 
- - 
+- [Marwa Ghabayen](https://github.com/Marwa-Ghabayen)
+- [Karam Zomlut](https://github.com/karam-zomlut)
+- [Asala K. Matarya](https://github.com/AsalaKM)
+- [Aseel Najar](https://github.com/aseelalnajar2001)
+- [Amani Abutaha](https://github.com/Amani-abt)
 
- ## Team Supervisor
+ ## Team Supervisor :relaxed:
 
- - Ann S. Abdelwahed 
+ - [ Ann S. Abdelwahed ](https://github.com/AnnSaid)
