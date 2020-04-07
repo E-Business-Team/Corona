@@ -140,8 +140,8 @@
     }
     .sub-head i{
         border-radius: 100%;
-        font-size: 25px;
-        margin-left: 5px;
+        font-size: 56px;
+        margin-left: 12px;
     }
     .about-corona{
         line-height: 35px;
@@ -220,7 +220,6 @@
 
     h5 {
         font-size: 18px;
-        line-height: 25px;
         margin-bottom: 5%;
     
     }
@@ -236,7 +235,6 @@
         border-radius: 45px;
         width: 100% !important;
         margin-bottom: 5% !important;
-        line-height: 40px;
     }
     .accordion-body {
         padding: 15px 26px 20px;
@@ -528,8 +526,8 @@
     }
     .sub-head i{
         border-radius: 100%;
-        font-size: 25px;
-        margin-left: 5px;
+        font-size: 56px;
+        margin-left: 12px;
     }
     .about-corona{
         line-height: 35px;
@@ -608,7 +606,6 @@
 
     h5 {
         font-size: 18px;
-        line-height: 25px;
         margin-bottom: 5%;
     
     }
@@ -624,7 +621,6 @@
         border-radius: 45px;
         width: 100% !important;
         margin-bottom: 5% !important;
-        line-height: 40px;
     }
     .accordion-body {
         padding: 15px 26px 20px;

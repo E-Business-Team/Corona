@@ -419,7 +419,6 @@ footer{
  /* --- Questions --*/
 h4 {
 	margin-bottom: 2%;
-	line-height: 40px;
 	color: #d4294b;
  	font-size: 25px;
 	font-family: 'Changa', sans-serif;
@@ -429,7 +428,6 @@ h4 {
 h5 {
 margin-bottom: 4%;
     font-size: 20px;
-    line-height: 30px;
     font-family: Cairo;
     color: #575a89;
  
@@ -448,7 +446,6 @@ margin-bottom: 4%;
 .accordion-header p {
  
  font-size: 15px;
- line-height: 31px;
  text-align: right;
  font-family: inherit;
  font-weight: bold;
@@ -573,12 +570,11 @@ display: block;
 
 }
 .patient-care ul{
-    list-style-image: url( '../imgs/covid-19\ \(1\).png');
     list-style: none;
     padding-top: 5px;
     padding-bottom: 5px;
     text-align: justify;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
  }
  .first-list{
      float: right;
