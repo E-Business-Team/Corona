@@ -1,0 +1,772 @@
+
+/* --- Start Media Small Screen --- */
+@media only screen and (max-width:767px) 
+{
+    /* -- header -- */
+    .main-header{
+        height: 80px;
+        padding: 2px 0px 150px 0px;
+    }
+    .header-img .head-img{
+        width: 50px;
+        height: 50px;
+    }
+    .main-title{
+        font-size: 20px;
+    }
+    .sub-title{
+        font-size: 15px;
+        border-bottom: solid 2px #d4294b;
+    }
+    .navicon {
+        font-size:20px;
+        line-height: 0.5;
+    }
+    .main-nav{
+        width: 50px;
+        padding: 12px;
+    }
+    .main-nav:hover{
+        width: 150px;
+    }
+    .author{
+        left: 10px;
+    }
+    
+    /* -- main -- */
+    main{
+        min-height: 100vh;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .image{
+        height: 150px;
+        width: 150px;
+        border-radius: 20px;
+    }
+    .image:hover{
+        cursor: pointer;
+        background-color: #f1f3f4;
+    }
+    #sections .section .sec-img{
+        width: 80%;
+        height: 80%;
+        margin: 12px auto 0 auto;
+    }
+    .top-secs{
+        margin-top: 0px;
+        margin-right: 0px;
+    }
+    #sections .top-secs .section{
+        float: none;
+        width: 80%;
+        margin: 0 auto;
+    }
+    #sections .bottom-secs{
+        margin-top: 1%;
+        margin-right: 0px;
+    }
+    #sections .bottom-secs .section{
+        float: none;
+        width: 80%;
+        margin: 0 auto;
+    }
+    .sec-name{
+        font-size: 18px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+    .name{
+        font-size: 35px;
+    }
+    footer{
+        margin-top:2%;
+    }
+    .copyright{
+        padding: 10px;
+    }
+
+    /* --  Pop Up   -- */
+    .popup {
+        margin: 4% auto;
+        padding: 10px;
+        border-radius: 12px;
+        width: 85%;
+    }
+    .popup .popup-close {
+        top: 10px;
+        font-size: 20px;
+    }
+
+    /* -- About -- */
+    .sub-container{
+        margin-top: 0px;
+    }
+    .cororna-def,.description{
+        width: 100%;
+        height: 0%;
+    }
+    .main-para{
+        margin-top: 0%;
+    }
+    .about-container{
+        width:70%;
+        float: right;
+    }
+    .corona-image{
+        width:30%;
+        float: left;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 350px;
+    }
+    .corona-virus{
+        width:100%;
+        height: 100%;
+        float: none;
+    }
+    .corona-video{
+        width:100%;
+        height: 100%;
+        float: none;
+    }
+    .sub-head{
+        font-size: 18px;
+    }
+    .sub-head i{
+        border-radius: 100%;
+        font-size: 25px;
+        margin-left: 5px;
+    }
+    .about-corona{
+        line-height: 35px;
+        margin-right: 10px;
+        padding: 20px;
+        text-align:justify;
+    }
+    .corona-para{
+        font-size: 15px;
+        line-height: 35px;
+        margin-right: 20px;
+        margin-top:10px;
+        padding: 15px;
+    }
+    .sub-img{
+        width: 100px;
+        height: 100px;
+    }
+    .sub-video{
+        border-radius: 20px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+        margin-right: 50px;
+    }
+
+    /* -- statistics -- */
+    .statistics{
+        width: 95%;
+    }
+    .topic-title{
+        text-align: center;
+        font-size: 20px;
+    }
+    .statistics-info{
+        display: block;
+    }
+    .statistics-data{
+        width: 89%;
+        margin: 0 auto;
+    }
+    .statistics-data-title, .Main__Title-xz49ti-1 ,.ePvwlG{
+        margin-bottom: 1% !important;
+        margin-top:0 !important; 
+        font-size: 18px !important;
+    }
+    .statistics-desc{
+        margin-top:20px !important;
+    }
+    .statistics-desc p{
+        border-right: solid #d4294b 3px;
+        margin: 10px 0px 10px 0px;
+    }
+    .statistics-desc p:hover{
+        color: #000;
+        border-right: solid #f68f87 4px;
+    }
+    .statistics-sub-title{
+        margin-bottom: 15px;
+        font-size: 18px;
+    }
+    .statistics-img{
+        border: solid #d4294b 2px;
+    }
+    .statistics-img:hover{
+        transform: scale(1.1)
+    }
+    .statistics-widget{
+        width: 85%;
+        margin: 10% auto 5% auto;
+    }
+
+    /* -- Questions -- */
+    h4 {
+        font-size: 20px;
+    }
+
+    h5 {
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 5%;
+    
+    }
+    .accordion{
+        display:block;
+        width: 90%;
+    }
+    .accordion-header p {
+        font-size: 16px;
+    }
+
+    .accordion-card {
+        border-radius: 45px;
+        width: 100% !important;
+        margin-bottom: 5% !important;
+        line-height: 40px;
+    }
+    .accordion-body {
+        padding: 15px 26px 20px;
+        text-align: justify !important;
+    }
+    .accordion-header.active a {
+        border-radius: 30px 30px 0 0;
+    }
+    .accordion-ul {
+        width: 100%;
+    }
+    .accordion-ul li {
+        margin: 3%;
+        padding: 10px 30px;
+    }
+    .accordion-ul.active a {
+        border-radius: 30px 30px 0 0;
+    }
+
+    /* -- Advice --*/
+    .coroo-advice {
+        padding: 15px;;
+    }
+    .advice-title{
+        margin-top: 3%;
+        margin-bottom: 5%;
+        text-align: center;
+    }
+    .img-coadvice{
+        width: 100%;
+    }
+    .advice-contant{
+        display:block;
+        font-size: 15px;
+    }
+    .list-advice{
+        width:90%;
+        margin: 0 auto;
+        
+    }
+    .img-advice{
+        width: 50%;
+        margin-top: 12px;
+        margin-right: 25%;
+    }
+    .check-icon{
+        margin-right: 0%;
+        font-size: 18px;
+    }
+
+    /* -- Care -- */
+    .patient-care{
+        padding: 10px;
+    }
+    .patient-care li{
+        margin-top: 12px;
+        border-right: 2px #d4294b solid;
+        padding-right: 10px;
+
+    }
+    .patient-care ul{
+        padding-top: 5px;
+        padding-bottom: 5px;
+        text-align: justify;
+        margin-bottom: 30px;
+    }
+    .first-list{
+        float: right;
+        width: 60%;
+        margin-left: 20px;
+        margin-top: 0px; 
+    }
+    .second-list{
+        float: left;
+        width: 60%;
+        margin-right: 10px;
+        margin-top: 0px;
+    }
+    .how-care{
+        font-size: 12px;
+        font-weight: bold;
+    }
+    .care-imgs{
+        height: 300px;
+        padding-top:70px;
+    }
+    .care-img{
+        height: 100px;
+    }
+
+    /* --- Prevention --- */
+    .container-topic{
+        padding: 20px 10px;
+    }
+    .topic-title{
+        margin-bottom: 10%;
+        font-size: 20px;
+    }
+    .topic-content{
+        display: block;
+    }
+    .prevention-box, .first-line{
+        width: 80%;
+        margin: 0 auto;
+        padding:10px;
+        margin-bottom: 20px;
+    }
+    .prevention-box img{
+        height: 50px;
+        width: 50px;
+    }
+    .first-line img{
+        height: 50px;
+        width: 50px;
+    }
+    .prevention-info{
+        margin-top: 5px;
+    }
+    .prevention-title{
+        font-size: 16px;
+    }
+    .prevention-desc{
+        font-size: 15px;
+    }
+  
+    /* -- syndrome -- */
+    .syndrome{
+        width: 90%;
+        margin-bottom: 10%;
+    }
+    .syndrome-title{
+        margin: 5% 0px 5% 0px;
+        font-size: 20px;
+    }
+    .syndrome-item {
+        width: 50px;
+    }    
+    .syndrome-text {
+        font-size: 12px;
+    }
+
+    /* -- Comparison -- */
+    .compare-title{
+        font-size: 15px;
+    }
+    .comparison-title{
+        margin: 0% 5px 5% 5px;
+        font-size: 18px;
+    }
+    .comparison-data p{
+        font-size: 12px;
+    }
+    .compare-item{
+        width: 90%;
+        border-bottom: #ddd dashed 1px;
+        padding-top: 5px;
+    }
+    .hint-true{
+        float: right;
+        /* width: 25%; */
+    }
+    .hint-icon{
+        width: 60%;
+        margin-top: 1px;
+        margin-right: 0%;
+        margin: 0 auto;
+    }
+    .hint-name{
+        font-family: 'Amiri';
+        color: #000;
+        font-size: 14px;
+    }
+    .danger{
+        font-size:16px;
+    }
+    .normal{
+        font-size:16px;
+    }
+    .safe{
+      font-size:16px;
+  }
+}
+/* --- End Media Small Screen  --- */
+
+/* --- Start Media Medium Screen  --- */
+@media only screen and (min-width:768px) and (max-width:991px){
+
+    /* header */
+    .main-header{
+        height: 150px;
+        padding-top: 5px;
+    }
+    .main-title{
+        font-size: 25px;
+    }
+    .sub-title{
+        font-size: 20px;
+    }
+
+    /* main */
+    main{
+        min-height: 550px;
+        width: 95%;
+        margin: 0 auto;
+    }
+    .image{
+        height: 200px;
+        width: 200px;
+        border-radius: 20px;
+    }
+    .image:hover .sec-img{
+        width: 80px;
+        height: 80px;
+    }
+    #sections .section .sec-img{
+        width: 150px;
+        height: 150px;
+        margin: auto;
+        margin-top: 25px;
+    }
+    .section{
+        text-align: center;
+    }
+    .top-secs{
+        margin-right: 0px;
+    }
+    #sections .bottom-secs{
+        margin-right: 0px;
+        
+    }
+    #sections .bottom-secs .section{
+        float: right;
+        width: 30%;
+    }
+    .sec-name{
+        font-size: 18px;
+    }
+
+    /* --  Pop Up   -- */
+    .popup {
+        margin: 5% auto;
+        padding: 10px;
+        border-radius: 12px;
+        width: 85%;
+    }
+    .popup .popup-close {
+        top: 10px;
+        font-size: 20px;
+    }
+
+    /* -- About -- */
+    .sub-container{
+        margin-top: 0px;
+    }
+    .cororna-def,.description{
+        width: 100%;
+        height: 0%;
+    }
+    .main-para{
+        margin-top: 0%;
+    }
+    .about-container{
+        width:70%;
+        float: right;
+    }
+    .corona-image{
+        width:30%;
+        float: left;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 250px;
+    }
+    .corona-virus{
+        width:100%;
+        height: 100%;
+        float: none;
+    }
+    .corona-video{
+        width:100%;
+        height: 100%;
+        float: none;
+    }
+    .sub-head{
+        font-size: 18px;
+    }
+    .sub-head i{
+        border-radius: 100%;
+        font-size: 25px;
+        margin-left: 5px;
+    }
+    .about-corona{
+        line-height: 35px;
+        margin-right: 10px;
+        padding: 20px;
+        text-align:justify;
+    }
+    .corona-para{
+        font-size: 15px;
+        line-height: 35px;
+        margin-right: 20px;
+        margin-top:10px;
+        padding: 15px;
+    }
+    .sub-img{
+        width: 100px;
+        height: 100px;
+    }
+    .sub-video{
+        border-radius: 20px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+        margin-right: 150px;
+    }
+
+    /* -- statistics -- */
+    .statistics{
+        width: 95%;
+    }
+    .topic-title{
+        text-align: center;
+        font-size: 20px;
+    }
+    .statistics-info{
+        display: block;
+    }
+    .statistics-data{
+        width: 89%;
+        margin: 0 auto;
+    }
+    .statistics-data-title, .Main__Title-xz49ti-1 ,.ePvwlG{
+        margin-bottom: 1% !important;
+        margin-top:0 !important; 
+        font-size: 19px !important;
+    }
+    .statistics-desc{
+        margin-top:20px !important;
+    }
+    .statistics-desc p{
+        border-right: solid #d4294b 3px;
+        margin: 10px 0px 10px 0px;
+    }
+    .statistics-desc p:hover{
+        color: #000;
+        border-right: solid #f68f87 4px;
+    }
+    .statistics-sub-title{
+        margin-bottom: 15px;
+        font-size: 18px;
+    }
+    .statistics-img{
+        border: solid #d4294b 2px;
+    }
+    .statistics-img:hover{
+        transform: scale(1.1)
+    }
+    .statistics-widget{
+        width: 80%;
+        margin: 10% auto 5% auto;
+    }
+
+    /* -- Questions -- */
+    h4 {
+        font-size: 20px;
+    }
+
+    h5 {
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 5%;
+    
+    }
+    .accordion{
+        display:block;
+        width: 90%;
+    }
+    .accordion-header p {
+        font-size: 16px;
+    }
+
+    .accordion-card {
+        border-radius: 45px;
+        width: 100% !important;
+        margin-bottom: 5% !important;
+        line-height: 40px;
+    }
+    .accordion-body {
+        padding: 15px 26px 20px;
+        text-align: justify !important;
+    }
+    .accordion-header.active a {
+        border-radius: 30px 30px 0 0;
+    }
+    .accordion-ul {
+        width: 100%;
+    }
+    .accordion-ul li {
+        margin: 3%;
+        padding: 10px 30px;
+    }
+    .accordion-ul.active a {
+        border-radius: 30px 30px 0 0;
+    }
+
+    /* -- Advice --*/
+    .img-coadvice {
+        width: 250px;
+    }
+    /* -- Care -- */
+    .patient-care{
+        padding: 10px;
+    }
+    .patient-care li{
+        margin-top: 12px;
+        border-right: 3px #d4294b solid;
+        padding-right: 10px;
+
+    }
+    .patient-care ul{
+        padding-top: 5px;
+        padding-bottom: 5px;
+        text-align: justify;
+        margin-bottom: 30px;
+    }
+    .first-list{
+        float: right;
+        width: 60%;
+        margin-left: 20px;
+        margin-top: 0px; 
+    }
+    .second-list{
+        float: left;
+        width: 60%;
+        margin-right: 10px;
+        margin-top: 0px;
+    }
+    .how-care{
+        font-size: 15px;
+        font-weight: bold;
+    }
+    .care-imgs{
+        height: 200px;
+        padding-top:50px;
+    }
+    .care-img{
+        height: 120px;
+    }
+
+    /* --- Prevention --- */
+    .container-topic{
+        padding: 20px 10px;
+    }
+    .topic-title{
+        margin-bottom: 10%;
+        font-size: 20px;
+    }
+    .topic-content{
+        display: flex;
+    }
+    .prevention-box, .first-line{
+        width: 45%;
+    }
+    .prevention-box img{
+        height: 50px;
+        width: 50px;
+    }
+    .first-line img{
+        height: 50px;
+        width: 50px;
+    }
+    .prevention-info{
+        margin-top: 5px;
+    }
+    .prevention-title{
+        font-size: 16px;
+    }
+    .prevention-desc{
+        font-size: 15px;
+    }
+  
+    /* -- syndrome -- */
+    .syndrome{
+        width: 90%;
+        margin-bottom: 10%;
+    }
+    .syndrome-title{
+        margin: 5% 0px 5% 0px;
+        font-size: 20px;
+    }
+    .syndrome-item {
+        width: 50px;
+    }    
+    .syndrome-text {
+        font-size: 13px;
+    }
+
+    /* -- Comparison -- */
+    .compare-title{
+        font-size: 18px;
+    }
+    .comparison-title{
+        margin: 0% 5px 5% 5px;
+        font-size: 18px;
+    }
+    .comparison-data p{
+        font-size: 12px;
+    }
+    .compare-item{
+        width: 90%;
+        border-bottom: #ddd dashed 1px;
+        padding-top: 5px;
+    }
+    .hint-true{
+        float: right;
+    }
+    .hint-icon{
+        width: 60%;
+        margin-top: 1px;
+        margin-right: 0%;
+        margin: 0 auto;
+    }
+    .hint-name{
+        font-family: 'Amiri';
+        color: #000;
+        font-size: 14px;
+    }
+    .danger{
+        font-size:16px;
+    }
+    .normal{
+        font-size:16px;
+    }
+    .safe{
+      font-size:16px;
+  }
+} 
+/* --- End Media Medium Screen  --- */
