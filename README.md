@@ -15,7 +15,9 @@ A new webSite produced by students of KhanYunis Training College located in Gaza
 Caring for patients infected with the.
 
 
- ## [Visit Site](https://e-business-team.github.io/Corona/) :boom:
+ ## Visit Site :boom:
+ 
+ > [Click here](https://e-business-team.github.io/Corona/) 
 
 
 ## Used Skills: :exclamation:
