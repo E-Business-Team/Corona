@@ -206,9 +206,10 @@ main{
     font-weight: bold;
 }
 footer{
-    height: 10vh;
-    margin-top:5%;
-    position: relative
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-top: 5%;
 }
 .copyright{
     padding: 12px;
@@ -829,6 +830,7 @@ display: block;
     bottom: 0;
     left: 0;
     right: 0;
+    z-index: 100;
     background: rgba(0, 0, 0, 0.5);
     transition: all 500ms;
     visibility: hidden;
