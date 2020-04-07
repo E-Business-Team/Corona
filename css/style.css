@@ -137,7 +137,7 @@ a{
 }
 /* main */
 main{
-    min-height: 550px;
+    min-height: 100vh;
 }
 .image{
     height: 230px;
