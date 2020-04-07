@@ -26,7 +26,7 @@ Caring for patients infected with the.
 - [Marwa Ghabayen](https://github.com/Marwa-Ghabayen)
 - [Karam Zomlut](https://github.com/karam-zomlut)
 - [Asala K. Matarya](https://github.com/AsalaKM)
-- [Aseel El-Najar](https://github.com/aseelalnajar2001)
+- [Aseel El-Najjar](https://github.com/aseelalnajar2001)
 - [Amani Abutaha](https://github.com/Amani-abt)
 
  ## Team Supervisor :relaxed:
